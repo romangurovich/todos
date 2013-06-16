@@ -1,0 +1,1 @@
+class Todos.Models.TodoItem extends Backbone.Model
